@@ -1,0 +1,103 @@
+
+
+body{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+p{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+ h1{font-family: Arial, Helvetica, sans-serif;}
+.Orange-color{color: orange;}
+section{
+display: flex;
+}
+body{
+   background-image: url(images/top-banner.png);
+   background-repeat: no-repeat;
+} 
+
+.content-area{padding-left: 50px;}
+.content-area h1{font-size: 50px;
+    font-weight: 400;
+}
+.content-area p{width: 500px;
+text-align: justify;}
+.content-area a{text-decoration: none;
+    color: aliceblue;
+    font-weight: 800;
+background-image: linear-gradient(orange ,tomato );
+
+padding:  10px 30px;
+border-radius: 5px;}
+
+.image-area img{
+    width: 80%
+    ;}
+.half-width{
+    width: 50%}
+.Dream-Big-section
+    .content-area
+    {background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;background:;background-position: 100px;background-position: right;}
+    body{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+p{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+ h1{font-family: Arial, Helvetica, sans-serif;}
+.Orange-color{color: orange;}
+section{
+display: flex;
+}
+
+
+.content-area{padding-left: 50px;}
+.content-area h1{font-size: 50px;
+    font-weight: 400;
+}
+.content-area p{width: 500px;
+text-align: justify;}
+.content-area a{text-decoration: none;
+    color: aliceblue;
+    font-weight: 800;
+background-image: linear-gradient(orange ,tomato );
+
+padding:  10px 30px;
+border-radius: 5px;}
+
+.image-area img{
+    width: 80%
+    ;}
+.half-width{
+    width: 50%}
+    body{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+    p{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+     h1{font-family: Arial, Helvetica, sans-serif;}
+    .Orange-color{color: orange;}
+    section{
+    display: flex;
+    }
+    
+    .content-area{padding-left: 50px;}
+    .content-area h1{font-size: 50px;
+        font-weight: 400;
+    }
+    .content-area p{width: 500px;
+    text-align: justify;}
+    .content-area a{text-decoration: none;
+        color: aliceblue;
+        font-weight: 800;
+    background-image: linear-gradient(orange ,tomato );
+    
+    padding:  10px 30px;
+    border-radius: 5px;}
+    
+    .image-area img{
+        width: 80%
+        ;}
+    .half-width{
+        width: 50%}
+
+.experiances-list {margin: 50px;
+    padding: 50px;
+    border-left:5px solid orange ;
+    
+    box-shadow : 4px 4px 25px 1px;  
+} 
+section.last-areya {padding-inline: 500px;}
